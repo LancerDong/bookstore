@@ -13,5 +13,6 @@ public class F {
 		int[] str2 = {11,22,33,44,55};
 		List<int[]> list1 = Arrays.asList(str2);
 		System.out.println(list1);
+		System.out.println("123435532324");
 	}
 }
